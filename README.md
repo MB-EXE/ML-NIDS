@@ -1,3 +1,10 @@
 Network-based Intrusion Detection Systems are very popular in today’s networking environments and they’re known to be a security tool which defends attacks from internally, externally and detects unauthorized access into the network. Concepts of NIDS managing firewall activates to guard the whole network infrastructure from unauthorized access via IP address and port numbers. NIDS is usually implemented outside the firewall monitoring the whole external traffic incoming by detecting and identifying the anomaly activates. However, if the network is multi-layered and complex NIDS are required to maintain and update due to the changing network system, and only a single IDS could only encompass the sensitive or confidential data of any network. Resulting in complications to process and manage the vast amount of traffic for the reason that there is only a single- entry point of a network output. At this point the NIDS requires more computational resources and power which could lead to having devasting affect in exhausting the NIDS. Leading to the overwhelmed NIDS becoming the bottleneck in a network. Delaying the outgoing and incoming packets due to inspections or even dropping the packets. Detection mechanisms will fail to identify any intrusion due to the dropped packet becoming incomplete packet matching. Hossen et al. analysed and evaluated the performance of a Network Intrusion Detection System (NIDS) which can detect various types of attacks in the network using Deep Learning Algorithm. They exploited Deep Q Network algorithm which is a value-based Reinforcement Learning algorithm technique used in detection of network intrusions. They concluded that their approach had a high accuracy of 92% for detecting different types of attacks without depending on the past experience
 developed a NIDS with the use of Machine Learning algorithms by achieving the optimum procedure with the maximum reward.
-
+The project was implemented in a virtual environment. The tools to be used include:
+- NSL-KDD,
+- Virtual NIDS Lab and Open-Source IDS tools
+- Fedora machine, Linux.
+- Kali Linux VM Snort, Suricata.
+- Jupyter Notebook (Anaconda).
+- Python 3.
+- Scikit-Learn
