@@ -4,7 +4,6 @@ The project was implemented in a virtual environment. The following tools were u
 - NSL-KDD,
 - Virtual NIDS Lab and Open-Source IDS tools
 - Fedora machine, Linux.
-- Kali Linux VM Snort, Suricata.
 - Jupyter Notebook (Anaconda).
 - Python 3.
 - Scikit-Learn
